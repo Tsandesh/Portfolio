@@ -59,7 +59,7 @@ const Hero = () => {
             alt="avatar"
             className="w-60 h-60 md:w-72 md:h-72 object-cover object-top  rounded-xl pt-5"
           />
-          <a href="/yash-resume.pdf" download={true} className="flex items-center justify-center mt-10 bg-[#8E8EF2] text-white py-2 rounded-lg ">Resume</a>
+          <a href="/sandeshcv.pdf" download={true} className="flex items-center justify-center mt-10 bg-[#8E8EF2] text-white py-2 rounded-lg ">Resume</a>
         </div>
         <div className="down-arrow mt-10">
             <FaArrowDown className="text-gray-400 text-2xl animate-bounce"/>
